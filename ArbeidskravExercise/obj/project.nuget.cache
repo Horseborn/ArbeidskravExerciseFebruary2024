@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VsZ0gv0PXiUtGDY0TAkewRL30JHypgHY6JNUaYHwRZjfRgGyqpbACbC+AVagLOCR12pP1tg2UtcGuhyVHg23Dg==",
+  "dgSpecHash": "/Ev8dWjqemBt2dIuEvFvTTcmXMD9vp3rap5jyhh9K6qMyBVpt38LECR77OLgiwkJak5YW42zOjVhm0hvk624Og==",
   "success": true,
   "projectFilePath": "C:\\Users\\sebas\\Desktop\\Gokstad Akademiet\\Rider\\ArbeidskravExercise\\ArbeidskravExercise\\ArbeidskravExercise.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.2\\microsoft.netcore.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.2\\microsoft.aspnetcore.app.runtime.win-x64.8.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

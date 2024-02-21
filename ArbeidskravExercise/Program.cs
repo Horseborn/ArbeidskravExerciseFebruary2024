@@ -6,8 +6,15 @@ class Program
 {
     static void Main(string[] args)
     {
+        if (args.Length == 0)       
+        {
+            Console.WriteLine("Please provide a string .. ");
+            return;
+        }
+        
+        
         string vowels = "aeiouAEIOU";
-        string words = "gbmnkkkl";
+        string words = args[0];
         StringBuilder sBuilder = new StringBuilder();
         
         foreach (var letter in words)
@@ -34,7 +41,9 @@ class Program
         }
 
         string translatedString = sBuilder.ToString();
-        Console.WriteLine(translatedString);
+        Console.WriteLine($"The sentence you wanted translated: {words}");
+        Console.WriteLine($"Translated sentence: {translatedString}");
+        Console.Read();
 
 
 
