@@ -1,0 +1,14 @@
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\bin\Debug\net8.0\ArbeidskravExercise.exe
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\bin\Debug\net8.0\ArbeidskravExercise.deps.json
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\bin\Debug\net8.0\ArbeidskravExercise.runtimeconfig.json
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\bin\Debug\net8.0\ArbeidskravExercise.dll
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\bin\Debug\net8.0\ArbeidskravExercise.pdb
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\obj\Debug\net8.0\ArbeidskravExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\obj\Debug\net8.0\ArbeidskravExercise.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\obj\Debug\net8.0\ArbeidskravExercise.AssemblyInfo.cs
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\obj\Debug\net8.0\ArbeidskravExercise.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\obj\Debug\net8.0\ArbeidskravExercise.dll
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\obj\Debug\net8.0\refint\ArbeidskravExercise.dll
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\obj\Debug\net8.0\ArbeidskravExercise.pdb
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\obj\Debug\net8.0\ArbeidskravExercise.genruntimeconfig.cache
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\ArbeidskravExercise\ArbeidskravExercise\obj\Debug\net8.0\ref\ArbeidskravExercise.dll
